@@ -1,0 +1,11 @@
+{
+  "name": "find-pairs-project",
+  "version": "1.0.0",
+  "description": "Project to find pairs in an array whose sum equals the target",
+  "main": "src/findPairs.js",
+  "scripts": {
+    "start": "node src/findPairs.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
